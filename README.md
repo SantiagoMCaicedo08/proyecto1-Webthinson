@@ -1,1 +1,4 @@
 # proyecto1-Webthinson
+Integrantes: Santiago Mauricio Caicedo Rodríguez - 2220035
+
+Para este proyecto he buscado explorar como se pueden diseñar paginas web haciendo uso de Java y bases de datos. Desde mi perspectiva habiendo probado diferentes lenguajes, ha sido más complejo de abordar que otros lenguajes más intuitivos que pude haber utilizado (como lo puede ser python o node.js). El presente proyecto presenta la generación de registros de personas a partir de varios datos, los cuales se empleó uso de bases de datos (en este caso específicamente PostgreSQL) para hacer persistencia de ellos. Esto se logra a partir de alojar los datos en la nube y brindar los datos de acceso para que se pueda acceder a estos datos sin perdida de ellos por memoria local. Se desgloza de forma visual el listado de las personas creadas, por tanto, se diseñan dos funcionalidades para que las personas puedan tanto acceder a los datos como también para la creación de ellos.  
